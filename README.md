@@ -29,4 +29,4 @@ Stopwatch Preview
 
 # Deployment
 This project is deployed by **Vercel**<br>
-Deployed link ()
+Deployed link (https://prodigy-wd-02-psi.vercel.app/)
